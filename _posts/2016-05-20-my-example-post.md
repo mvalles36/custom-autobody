@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My Example Post
-subtitle: ' '
+title: Mitch is gay
+subtitle: " "
 author: Admin
 ---
 
